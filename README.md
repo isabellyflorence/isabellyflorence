@@ -34,9 +34,9 @@ Gosto de aprender fazendo e transformar conhecimento em soluções reais.
 
 ## 📊 estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellyflorence&show_icons=true&theme=tokyonight&count_private=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellyflorence&show_icons=true&theme=radical&cache_seconds=1800)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyflorence&layout=compact&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyflorence&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
