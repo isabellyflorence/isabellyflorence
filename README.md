@@ -1,26 +1,26 @@
-# ✨ Oi, eu sou a Isabelly
+# 👩‍💻 Isabelly Florence
 
-💻 estudante de Sistemas de Informação
-🚀 construindo meu caminho na tecnologia
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff\&size=25\&center=true\&vCenter=true\&width=1000\&lines=Oi,+eu+sou+a+Isabelly;Bem-vindo+ao+meu+GitHub;Em+evolução+constante+🚀)](https://git.io/typing-svg)
+
+---
+
+## 🚀 sobre mim
+
+💻 Estudante de Sistemas de Informação
 📍 Rio de Janeiro
+🚀 Focada em desenvolvimento e tecnologia
+
+Sou apaixonada por tecnologia e estou construindo minha jornada na área através de estudos práticos, projetos e evolução constante.
+Gosto de aprender fazendo e transformar conhecimento em soluções reais.
 
 ---
 
-## 👩‍💻 sobre mim
-
-Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento.
-Gosto de aprender na prática, criar projetos e entender como as coisas realmente funcionam por trás.
-
-Atualmente estou focada em me desenvolver como programadora e construir uma base sólida para atuar profissionalmente na área 🚀
-
----
-
-## 🧠 estudando agora
+## 🧠 estudando atualmente
 
 * 🐍 Python
 * ☕ Java
 * 🌐 HTML, CSS e JavaScript
-* 💡 lógica e desenvolvimento de sistemas
+* 💡 Lógica de programação
 
 ---
 
@@ -32,18 +32,27 @@ Atualmente estou focada em me desenvolver como programadora e construir uma base
 
 ---
 
+## 📊 estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellyflorence\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyflorence\&layout=compact\&theme=tokyonight)
+
+---
+
 ## 🚀 projetos em destaque
 
 * 💳 **BancoAzul** → sistema bancário em Java
 * 🌐 **Portfólio pessoal** → meu site
+* 🐍 **PythonStudy** → evolução em Python
 * 🎮 **Pedra, Papel e Tesoura** → projeto interativo
 
 ---
 
 ## 📈 evolução
 
-Estou sempre criando, testando e aprendendo coisas novas.
-Cada projeto aqui representa um passo na minha jornada na programação.
+Estou constantemente estudando, praticando e desenvolvendo novos projetos.
+Cada repositório representa um passo na minha evolução como desenvolvedora.
 
 ---
 
