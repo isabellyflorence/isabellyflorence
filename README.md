@@ -34,10 +34,9 @@ Gosto de aprender fazendo e transformar conhecimento em soluções reais.
 
 ## 📊 estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabellyflorence\&show_icons=true\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellyflorence&show_icons=true&theme=tokyonight&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyflorence\&layout=compact\&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyflorence&layout=compact&theme=tokyonight"/>
 ---
 
 ## 🚀 projetos em destaque
