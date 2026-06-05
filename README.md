@@ -41,7 +41,7 @@ Gosto de aprender fazendo e transformar conhecimento em soluções reais.
 ## 🚀 projetos em destaque
 
 * 💳 **BancoAzul** → sistema bancário em Java
-* 🌐 **Portfólio pessoal** → meu site
+* 🌐 **Vetory** → site de gestão de rotinas veterinárias
 * 🐍 **PythonStudy** → evolução em Python
 * 🎮 **Pedra, Papel e Tesoura** → projeto interativo
 
