@@ -32,12 +32,6 @@ Gosto de aprender fazendo e transformar conhecimento em soluções reais.
 
 ---
 
-## 📊 estatísticas
-
-![GitHub Streak](https://streak-stats.demolab.com?user=isabellyflorence&theme=radical)
-
----
-
 ## 🚀 projetos em destaque
 
 * 💳 **BancoAzul** → sistema bancário em Java
